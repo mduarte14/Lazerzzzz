@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>BG.png</file>
+        <file>buttonRed.png</file>
+        <file>MainBG.png</file>
+        <file>scores.txt</file>
+        <file>enemyBlue4.png</file>
+        <file>laserGreen10.png</file>
+        <file>meteorBrown_big4.png</file>
+        <file>playerShip2_red.png</file>
+        <file>enemyGreen1.png</file>
+        <file>meteorGrey_tiny1.png</file>
+    </qresource>
+</RCC>
